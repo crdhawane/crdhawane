@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on React-Native
-- 📫 How to reach me ...
+- 📫 Reach to me via true and real heart
 
 <!---
 crdhawane/crdhawane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
